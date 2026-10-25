@@ -1,0 +1,26 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.dll
+*.exe
+*.cache
+*.pdb
+*.obj
+*.log
+*.tmp
+*.bak
+*.orig
+*.rej
+*.DS_Store
+*.vs/
+*.idea/
+*.code-workspace
+
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+packages/
+.vs/
